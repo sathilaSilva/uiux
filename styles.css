@@ -35,7 +35,7 @@ nav a {
     font-style: normal;
     font-weight: bold;
     margin-top: 0;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     padding-top: 0;
     line-height: 80px;
     letter-spacing: 7px;
@@ -55,7 +55,7 @@ nav a {
 }
 
 .para2 {
-    padding-bottom: 80px;
+    padding-bottom: 70px;
     font-size: 20px;
     letter-spacing: 2px;
     line-height: 30px;
