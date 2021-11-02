@@ -636,7 +636,7 @@ nav a {
 
 #aboutMe {
     position: relative;
-    top: 290px;
+    top: 150px;
     padding-bottom: 50px;  
 }
 
@@ -674,7 +674,7 @@ nav a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 400px;
+    margin-top: 340px;
 }
 
 .socialAbout li {
